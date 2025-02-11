@@ -3,6 +3,7 @@
 Transform your knowledge management with AI-powered document processing that actually makes sense of your content. Built for Personal Knowledge Management (PKM) systems and company wikis.
 
 ## Example metadata for this README
+```markdown
 ---
 context: work
 key_concepts:
@@ -36,6 +37,7 @@ summary: DocFlow AI is an intelligent document processing system designed to enh
   with various platforms.
 word_count: 380
 ---
+```
 
 ## 🎯 Core Features
 
